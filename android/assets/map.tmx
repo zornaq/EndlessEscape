@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="tileset.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Grass Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0LEJACAQBMHPbc5Ov0UTSxCOxwk2Htiuqg63Q/H5fD6fP8lft1/99H8+n8/n81/4yQ4MhW0A
+  </data>
+ </layer>
+ <layer name="Rock Layer 2" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztk1kOwzAIRDmC73/aqn+RBbMA6VeRIjle5g0YR/zjG4fMH7DHYSBO9alekEam1zlf7e1osFDO3muqT8TMxtX/SdaU2qj8Oy+1HsiLync1OzVGLHS3an+5vpjG5IvAPiZvSnkDiL/BRh6eehX/Xp/WutJj/I07rvJh4ebWrUuHq/AjGd9zzEM3N/UeGH+r7xRmxp94yXJ1vKA6uv2l9h866/Knd8U8bvWjqu+yVb8b+akc1YPqJ8i4k3+3BpO+Q/znnOOz0q30VV3WYyGMXb7jS9n3RvyC8WZ8ABUAInE=
+  </data>
+ </layer>
+</map>
